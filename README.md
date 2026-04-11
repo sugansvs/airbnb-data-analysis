@@ -56,7 +56,7 @@ Translating data into business insights
 
 👤 Sugan
 📎 LinkedIn: https://www.linkedin.com/in/sugan-data-analyst/
- (update if needed)
+
 
 ⭐ Support
 
