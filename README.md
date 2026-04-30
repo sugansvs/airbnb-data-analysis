@@ -83,22 +83,7 @@ Airbnb hosts often struggle with:
 * Location-based analysis
 * Price distribution insights
 
-*(Attach your dashboard PDF or screenshots here)*
-
----
-
-## 📂 Project Structure
-
-airbnb-data-analysis/
-│
-├── data/
-├── notebooks/
-├── app.py
-├── dashboard.pbix / pdf
-├── images/
-└── README.md
-
----
+*Airbnb_Host_Performance_Dashboard.pdf*
 
 ## 🚀 Future Improvements
 
